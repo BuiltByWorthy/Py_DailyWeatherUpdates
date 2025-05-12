@@ -1,0 +1,1 @@
+print("I am your friendly weather bot!\nI provide you with daily weather updates!")
